@@ -1,12 +1,15 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "Oops concepts",
         "Lec 4 - Know basic maths",
+        "Java_concepts",
         "Hashing",
-        "Java_concepts"
+        "Control stmt"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

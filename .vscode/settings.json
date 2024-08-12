@@ -5,7 +5,9 @@
         "Lec 4 - Know basic maths",
         "Java_concepts",
         "Hashing",
-        "Control stmt"
+        "Exceptional handling",
+        "Control stmt",
+        "Multithreading"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

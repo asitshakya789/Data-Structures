@@ -6,7 +6,6 @@ public class multi_catch {
         try {
             int x = a[2]/b-a[1];
         } catch (ArithmeticException e) {
-            // TODO: handle exception
             System.out.println("division by zero");
         
         }catch(ArrayIndexOutOfBoundsException e){

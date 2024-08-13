@@ -2,12 +2,13 @@
     "java.project.sourcePaths": [
         "src",
         "Oops concepts",
+        "Multithreading",
         "Lec 4 - Know basic maths",
         "Java_concepts",
         "Hashing",
         "Exceptional handling",
         "Control stmt",
-        "Multithreading"
+        "Collection framework"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

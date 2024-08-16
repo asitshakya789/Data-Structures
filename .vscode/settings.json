@@ -8,7 +8,8 @@
         "Hashing",
         "Exceptional handling",
         "Control stmt",
-        "Collection framework"
+        "Collection framework",
+        "Java New Features"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

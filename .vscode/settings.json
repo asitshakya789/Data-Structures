@@ -1,15 +1,17 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "Sorting Techniques",
         "Oops concepts",
         "Multithreading",
         "Lec 4 - Know basic maths",
         "Java_concepts",
+        "Java New Features",
         "Hashing",
         "Exceptional handling",
         "Control stmt",
         "Collection framework",
-        "Java New Features"
+        "Arrays"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

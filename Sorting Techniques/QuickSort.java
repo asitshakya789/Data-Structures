@@ -7,7 +7,7 @@ public class QuickSort {
                 arr[i] = arr[pos];
                 arr[pos] = temp;
                 pos++;
-            }
+            } 
         }
         // Swap the pivot element with the element at the pos index
         int temp = arr[pos];

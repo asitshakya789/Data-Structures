@@ -11,7 +11,8 @@
         "Exceptional handling",
         "Control stmt",
         "Collection framework",
-        "Arrays"
+        "Arrays",
+        "Stacks"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

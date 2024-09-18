@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "src",
+        "Stacks",
         "Sorting Techniques",
         "Oops concepts",
         "Multithreading",
@@ -12,7 +13,7 @@
         "Control stmt",
         "Collection framework",
         "Arrays",
-        "Stacks"
+        "Codeforces"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [

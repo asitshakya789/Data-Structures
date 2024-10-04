@@ -3,7 +3,7 @@
  */
 public class Consecutiveones {
 
-    public static  int findoned(int arr[]){
+    public static  int findone(int arr[]){
         int count = 0;
         int max = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -18,7 +18,7 @@ public class Consecutiveones {
         return max;
     }
     public static void main(String[] args) {
-        int arr[] = {1,1,0,1,1,0,1,1};
-        System.out.println(findoned(arr));
+        int arr[] = {1,1,0,1,1,1,1,1};
+        System.out.println(findone(arr));
     }
 }

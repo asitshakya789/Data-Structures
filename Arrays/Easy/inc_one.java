@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Arraays1 {
+public class inc_one {
 
     public static void update(int[] marks){
         for(int  i=0;i<marks.length;i++){

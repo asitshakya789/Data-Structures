@@ -30,4 +30,5 @@ public class Butterfly {
     public static void main(String[] args) {
         pattern(5);
     }
+    public static final int DEFAULT_CAPCITY
 }

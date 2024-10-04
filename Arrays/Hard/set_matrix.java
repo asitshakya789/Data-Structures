@@ -1,5 +1,5 @@
 public class set_matrix {
-    public static int solution(int[][] matrix){
+    public static void solution(int[][] matrix){
         int m = matrix.length;
         int n = matrix[0].length;
         int[] row = new int[m];

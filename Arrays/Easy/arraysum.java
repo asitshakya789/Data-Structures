@@ -11,7 +11,7 @@ public class arraysum {
     public static void main(String[] args) {
         int arr[] ={1,2,3,4,5,6};
         int sum = sumarray(arr);
-        System.out.println("'The sum  of the array" +sum);
+        System.out.println("'The sum  of the array " +sum);
     }
 
 

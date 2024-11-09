@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Valid_Parentheses",
+            "request": "launch",
+            "mainClass": "Valid_Parentheses",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "operation",
             "request": "launch",
             "mainClass": "operation",

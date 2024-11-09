@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ize",
+            "request": "launch",
+            "mainClass": "ize",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "CookiesSize",
+            "request": "launch",
+            "mainClass": "CookiesSize",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "cookies_size",
+            "request": "launch",
+            "mainClass": "cookies_size",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "person",
             "request": "launch",
             "mainClass": "person",

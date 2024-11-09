@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "operation",
+            "request": "launch",
+            "mainClass": "operation",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "ize",
             "request": "launch",
             "mainClass": "ize",

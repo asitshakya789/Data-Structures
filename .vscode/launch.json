@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BalancedBracket",
+            "request": "launch",
+            "mainClass": "BalancedBracket",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "ValidParentheses",
+            "request": "launch",
+            "mainClass": "ValidParentheses",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "Valid_Parentheses",
             "request": "launch",
             "mainClass": "Valid_Parentheses",

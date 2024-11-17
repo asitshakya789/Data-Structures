@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minimum_Add",
+            "request": "launch",
+            "mainClass": "Minimum_Add",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "MinimumSwaps",
             "request": "launch",
             "mainClass": "MinimumSwaps",

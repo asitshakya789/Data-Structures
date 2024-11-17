@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumSwaps",
+            "request": "launch",
+            "mainClass": "MinimumSwaps",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "minimum_swaps",
+            "request": "launch",
+            "mainClass": "minimum_swaps",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Parentheses_Valid",
+            "request": "launch",
+            "mainClass": "Minimum_Parentheses_Valid",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "insertion_sort",
+            "request": "launch",
+            "mainClass": "insertion_sort",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "BalancedBracket",
             "request": "launch",
             "mainClass": "BalancedBracket",

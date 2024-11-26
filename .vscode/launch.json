@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KadansAlgoSumarray",
+            "request": "launch",
+            "mainClass": "KadansAlgoSumarray",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "BellmanFord",
+            "request": "launch",
+            "mainClass": "Graph.BellmanFord",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack01Problem",
+            "request": "launch",
+            "mainClass": "Knapsack01Problem",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "Minimum_Add",
             "request": "launch",
             "mainClass": "Minimum_Add",

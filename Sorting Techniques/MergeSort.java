@@ -42,7 +42,7 @@ public class MergeSort {
         merge(arr, low, high);
     }
 
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         int arr[] = {5, 3, 8, 4, 2};
         mergeSort(arr, 0, arr.length - 1);
         for (int i = 0; i < arr.length; i++) {

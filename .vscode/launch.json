@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "missing_number",
+            "request": "launch",
+            "mainClass": "missing_number",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "KadansAlgoSumarray",
             "request": "launch",
             "mainClass": "KadansAlgoSumarray",

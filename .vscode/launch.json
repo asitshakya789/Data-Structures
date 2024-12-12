@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "change_coin",
+            "request": "launch",
+            "mainClass": "change_coin",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "missing_number",
             "request": "launch",
             "mainClass": "missing_number",

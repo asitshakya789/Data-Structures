@@ -14,12 +14,13 @@ public class example {
             }
         }
     }
+    
     public static void main(String[] args) {
         int arr[] = {1,2,4,5,7,78,98765,43,4,5,6};
         bubblesort(arr);
         int n = arr.length;
         for(int  i = 0 ; i< n ; i++){
              System.out.println(arr[i]);
-        }
+        
     }
 }

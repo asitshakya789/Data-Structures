@@ -14,7 +14,7 @@ public class FindMinimum {
 
     public static void main(String[] args) {
         FindMinimum finder = new FindMinimum(); 
-        int[] arr = {2, 3, 5, 6, 7, 3, 2, 5, 6}; 
+        int[] arr = {2, 3, 5, 6, 7, 3, 2, 5, 6,1}; 
         System.out.println(finder.findMinimum(arr)); 
     }
 }

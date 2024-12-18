@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "special_descount",
+            "request": "launch",
+            "mainClass": "Leetcode.special_descount",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "number_occurence",
             "request": "launch",
             "mainClass": "number_occurence",

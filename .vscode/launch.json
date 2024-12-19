@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kth_missing",
+            "request": "launch",
+            "mainClass": "Leetcode.kth_missing",
+            "projectName": "Data-Structures_6121bca"
+        },
+        {
+            "type": "java",
             "name": "special_descount",
             "request": "launch",
             "mainClass": "Leetcode.special_descount",

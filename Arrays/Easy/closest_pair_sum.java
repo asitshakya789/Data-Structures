@@ -4,7 +4,7 @@ import java.util.List;
 
 public class closest_pair_sum {
 
-     public List<Integer> sumClosest(int[] arr, int target) {
+    public List<Integer> sumClosest(int[] arr, int target) {
         int n = arr.length;
         if (n < 2) return new ArrayList<>();
 

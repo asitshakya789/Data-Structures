@@ -2,23 +2,24 @@ import java.util.ArrayList;
 
 public class Buy_sell {
     public static int maxprofit(ArrayList<Integer> prices) {
-        if(prices == null || prices.isEmpty()){
+        if (prices == null || prices.isEmpty()) {
             return 0;
         }
         int lowestsofar = Integer.MAX_VALUE;
         int maxprofit = 0;
-        for(int i= 0 ;i<prices.size();i++){
+        for (int i = 0; i < prices.size(); i++) {
             int currentprice = prices.get(i);
-             if (currentprice<lowestsofar) {
+            if (currentprice < lowestsofar) {
                 lowestsofar = currentprice;
-             }
-             int potentialprofit = currentprice-lowestsofar;
-             if (potentialprofit > maxprofit) {
+            }
+            int potentialprofit = currentprice - lowestsofar;
+            if (potentialprofit > maxprofit) {
                 maxprofit = potentialprofit;
-             }
+            }
         }
         return maxprofit;
     }
+
     public static void main(String[] args) {
         ArrayList<Integer> prices = new ArrayList<Integer>();
         prices.add(7);
